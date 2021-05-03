@@ -2,7 +2,7 @@
 
 #include <locale.h>
 // CALCULO PARA ENERGIA SOLAR
-// Leia o README.txt antes, para reunir as informações necesssarias e assim conseguir executar o programa.
+// Leia o README.md antes, para reunir as informações necesssarias e assim conseguir executar o programa.
 
 int main()
 {
