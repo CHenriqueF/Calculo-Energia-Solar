@@ -20,7 +20,7 @@ int main()
     printf("Digite o valor da irradiação solar da sua cidade:\n");
     scanf("%f",&Irradsolar);
 
-//formulas
+//calculos
     
     kwp=((((kw/30)/Irradsolar)*1.30));
     quantidadeplacas=((((kw/30)/Irradsolar)*1.30)*1000)/w;
